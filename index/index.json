@@ -29,12 +29,12 @@
       },
       "versions": [
         {
-          "version": "0.1.0",
-          "publishTimestamp": 1793903418,
+          "version": "0.2.0",
+          "publishTimestamp": 1793904892,
           "source": {
             "type": "git",
             "url": "https://github.com/Ddima23/commune-kitchen.git",
-            "commit": "a8ccf2a449290002f2e84e2430e1e7c627a4283e",
+            "commit": "cabc101e7e1fcec46da79f93f29d7a16119557bd",
             "path": "plugin"
           },
           "engines": {
