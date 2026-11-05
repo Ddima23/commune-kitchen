@@ -36,7 +36,6 @@ export function normalize(s) {
     .replace(/[^a-z0-9]+/g, " ")
     .split(" ")
     .filter(Boolean)
-    .map(singularize)
     .map((w) => SYNONYMS[w] || w)
     .join(" ")
     .split(" ")

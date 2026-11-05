@@ -16,7 +16,7 @@ Usage:
   python scale_recipe.py recipe.json --people 12 --exclude milk,gluten
   python scale_recipe.py --demo
 """
-import argparse, json, sys
+import argparse, json, math, sys
 
 MAJOR_ALLERGENS = {
     "milk", "eggs", "fish", "shellfish", "tree nuts", "peanuts", "wheat",
@@ -38,7 +38,22 @@ DEMO = {
 }
 
 
-def round_amount(a):
+COUNTABLE_UNITS = ("pcs", "pc", "can", "bottle", "jar", "pack", "box", "head", "stalk", "egg", "clove", "bunch")
+
+def is_countable(unit):
+    u = (unit or "").lower().strip()
+    forms = [u]
+    if u.endswith("s") and len(u) > 1:
+        forms.append(u[:-1])
+    for c in COUNTABLE_UNITS:
+        for f in forms:
+            if f == c or f.startswith(c + " ") or f.startswith(c + "("):
+                return True
+    return False
+
+def round_amount(a, unit=None):
+    if unit and is_countable(unit):
+        return math.ceil(a)
     if a < 5:
         return round(a * 2) / 2
     if a <= 250:
@@ -84,7 +99,7 @@ def main():
     print("| Ingredient | Amount | Unit | Allergens |")
     print("|---|---|---|---|")
     for ing in recipe["ingredients"]:
-        amt = round_amount(float(ing["amount"]) * factor)
+        amt = round_amount(float(ing["amount"]) * factor, ing.get("unit"))
         al = ing.get("allergens") or []
         alstr = ", ".join(al) if al else "—"
         flag = ""
