@@ -74,3 +74,7 @@ Substitutions applied: milk → oat milk
 Run the bundled scaler for a precise table:
 
     python scripts/scale_recipe.py recipe.json --people 15 --exclude milk,gluten
+
+## Get the full pack
+
+This is the free lead-magnet skill. The full Commune Kitchen pack adds ordering & par sheets, receipt checking, recipe ideas, and Finnish food-safety (omavalvonta) skills: https://dimalunochkin.gumroad.com/l/kitchen

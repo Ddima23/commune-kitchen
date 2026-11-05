@@ -39,6 +39,12 @@ See [OCR.md](OCR.md) for the tested OCR pipeline (Tesseract + preprocessing).
 3. `receipt_parse` → structured items.
 4. `receipt_check` against the order sheet → tick the checklist.
 
+## Get the full pack
+
+The free plugin ships 4 tools + the `recipe-scaling-allergens` skill. The premium pack adds 4 more skills (ordering, receipt checking, recipe ideas, Finnish compliance).
+
+**Buy it here:** https://dimalunochkin.gumroad.com/l/kitchen
+
 ## Target customer
 Small communes, co-living kitchens, B&Bs, campsites, course centres, food trucks in Finland, Åland and the Nordics.
 
