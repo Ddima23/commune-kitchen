@@ -1,0 +1,58 @@
+[
+  {
+    "name": "maito",
+    "category": "dairy"
+  },
+  {
+    "name": "voi",
+    "category": "dairy"
+  },
+  {
+    "name": "kerma",
+    "category": "dairy"
+  },
+  {
+    "name": "juusto",
+    "category": "dairy"
+  },
+  {
+    "name": "raejuusto",
+    "category": "dairy"
+  },
+  {
+    "name": "kananmuna",
+    "category": "dairy"
+  },
+  {
+    "name": "lohi",
+    "category": "fish"
+  },
+  {
+    "name": "siika",
+    "category": "fish"
+  },
+  {
+    "name": "peruna",
+    "category": "produce"
+  },
+  {
+    "name": "sipuli",
+    "category": "produce"
+  },
+  {
+    "name": "porkkana",
+    "category": "produce"
+  },
+  {
+    "name": "tomaattimurska",
+    "category": "pantry"
+  },
+  {
+    "name": "makaroni",
+    "category": "dry goods"
+  },
+  {
+    "name": "jauho",
+    "category": "dry goods"
+  }
+]

@@ -1,0 +1,4 @@
+# Commune Kitchen plugin: register the receipt_check tool and embed the three skills.
+- insert:
+    - id: commune-kitchen
+      name: 'commune-kitchen'

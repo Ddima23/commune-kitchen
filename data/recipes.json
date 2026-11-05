@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Baked salmon with dill cream",
+    "tags": [
+      "fish",
+      "dinner",
+      "red fish"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "salmon fillet",
+        "amount": 1.5,
+        "unit": "kg",
+        "category": "fish",
+        "allergens": [
+          "fish"
+        ]
+      },
+      {
+        "name": "cream",
+        "amount": 300,
+        "unit": "ml",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "butter",
+        "amount": 50,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "dill",
+        "amount": 20,
+        "unit": "g",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "lemon",
+        "amount": 2,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "White fish & tomato stew",
+    "tags": [
+      "fish",
+      "dinner",
+      "white fish"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "white fish fillet",
+        "amount": 1.5,
+        "unit": "kg",
+        "category": "fish",
+        "allergens": [
+          "fish"
+        ]
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 3,
+        "unit": "can",
+        "category": "pantry",
+        "allergens": []
+      },
+      {
+        "name": "onion",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "head",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "olive oil",
+        "amount": 100,
+        "unit": "ml",
+        "category": "pantry",
+        "allergens": []
+      },
+      {
+        "name": "parsley",
+        "amount": 30,
+        "unit": "g",
+        "category": "produce",
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "Beef ragù",
+    "tags": [
+      "meat",
+      "dinner",
+      "ragù"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "amount": 2,
+        "unit": "kg",
+        "category": "meat",
+        "allergens": []
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 4,
+        "unit": "can",
+        "category": "pantry",
+        "allergens": []
+      },
+      {
+        "name": "onion",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "carrot",
+        "amount": 3,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "celery",
+        "amount": 3,
+        "unit": "stalks",
+        "category": "produce",
+        "allergens": [
+          "celery"
+        ]
+      },
+      {
+        "name": "pasta",
+        "amount": 1.2,
+        "unit": "kg",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vegetable ragù",
+    "tags": [
+      "vegetarian",
+      "dinner",
+      "ragù"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "canned tomatoes",
+        "amount": 4,
+        "unit": "can",
+        "category": "pantry",
+        "allergens": []
+      },
+      {
+        "name": "onion",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "carrot",
+        "amount": 3,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "celery",
+        "amount": 3,
+        "unit": "stalks",
+        "category": "produce",
+        "allergens": [
+          "celery"
+        ]
+      },
+      {
+        "name": "zucchini",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "chickpeas",
+        "amount": 2,
+        "unit": "can",
+        "category": "dry goods",
+        "allergens": []
+      },
+      {
+        "name": "olive oil",
+        "amount": 100,
+        "unit": "ml",
+        "category": "pantry",
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "Chicken ragù",
+    "tags": [
+      "meat",
+      "dinner",
+      "ragù"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "chicken thigh",
+        "amount": 2,
+        "unit": "kg",
+        "category": "meat",
+        "allergens": []
+      },
+      {
+        "name": "canned tomatoes",
+        "amount": 4,
+        "unit": "can",
+        "category": "pantry",
+        "allergens": []
+      },
+      {
+        "name": "onion",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "carrot",
+        "amount": 3,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "pasta",
+        "amount": 1.2,
+        "unit": "kg",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Creamy chicken casserole",
+    "tags": [
+      "meat",
+      "dairy",
+      "dinner"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "amount": 2,
+        "unit": "kg",
+        "category": "meat",
+        "allergens": []
+      },
+      {
+        "name": "cream",
+        "amount": 400,
+        "unit": "ml",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "cheese",
+        "amount": 200,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "mushrooms",
+        "amount": 500,
+        "unit": "g",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "onion",
+        "amount": 3,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "flour",
+        "amount": 60,
+        "unit": "g",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      },
+      {
+        "name": "butter",
+        "amount": 50,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cottage cheese pancakes",
+    "tags": [
+      "dairy",
+      "breakfast"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "cottage cheese",
+        "amount": 1,
+        "unit": "kg",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "eggs",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "dairy",
+        "allergens": [
+          "eggs"
+        ]
+      },
+      {
+        "name": "flour",
+        "amount": 150,
+        "unit": "g",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      },
+      {
+        "name": "sugar",
+        "amount": 80,
+        "unit": "g",
+        "category": "pantry",
+        "allergens": []
+      },
+      {
+        "name": "butter",
+        "amount": 50,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mac & cheese",
+    "tags": [
+      "dairy",
+      "dinner"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "pasta",
+        "amount": 1,
+        "unit": "kg",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      },
+      {
+        "name": "cheese",
+        "amount": 400,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "milk",
+        "amount": 800,
+        "unit": "ml",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "butter",
+        "amount": 80,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "flour",
+        "amount": 80,
+        "unit": "g",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lohikeitto (salmon soup)",
+    "tags": [
+      "fish",
+      "soup",
+      "red fish"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "salmon fillet",
+        "amount": 1.2,
+        "unit": "kg",
+        "category": "fish",
+        "allergens": [
+          "fish"
+        ]
+      },
+      {
+        "name": "potato",
+        "amount": 1.5,
+        "unit": "kg",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "onion",
+        "amount": 3,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "cream",
+        "amount": 200,
+        "unit": "ml",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "butter",
+        "amount": 40,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "dill",
+        "amount": 20,
+        "unit": "g",
+        "category": "produce",
+        "allergens": []
+      }
+    ]
+  },
+  {
+    "name": "Makaronilaatikko (macaroni casserole)",
+    "tags": [
+      "meat",
+      "dairy",
+      "casserole"
+    ],
+    "base_covers": 10,
+    "ingredients": [
+      {
+        "name": "pasta",
+        "amount": 800,
+        "unit": "g",
+        "category": "dry goods",
+        "allergens": [
+          "gluten",
+          "wheat"
+        ]
+      },
+      {
+        "name": "ground beef",
+        "amount": 800,
+        "unit": "g",
+        "category": "meat",
+        "allergens": []
+      },
+      {
+        "name": "milk",
+        "amount": 600,
+        "unit": "ml",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      },
+      {
+        "name": "eggs",
+        "amount": 4,
+        "unit": "pcs",
+        "category": "dairy",
+        "allergens": [
+          "eggs"
+        ]
+      },
+      {
+        "name": "onion",
+        "amount": 3,
+        "unit": "pcs",
+        "category": "produce",
+        "allergens": []
+      },
+      {
+        "name": "cheese",
+        "amount": 150,
+        "unit": "g",
+        "category": "dairy",
+        "allergens": [
+          "milk"
+        ]
+      }
+    ]
+  }
+]

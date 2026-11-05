@@ -1,0 +1,25 @@
+{
+  "name": "commune-kitchen",
+  "version": "0.1.0",
+  "description": "Kitchen ops skills and receipt-check tool for small communes and tiny restaurants",
+  "type": "module",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24",
+    "dsh": ">=0.2.2-rc.1"
+  },
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "tesseract.js": "^7.0.0"
+  },
+  "peerDependencies": {
+    "@deepseek-ai/dsh-tools": "0.2.2-rc.1"
+  },
+  "dsh": {
+    "manifestVersion": 1,
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

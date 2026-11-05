@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "title": "Commune Kitchen",
+  "description": "Kitchen ops skills and tools for small communes and tiny restaurants: receipt checking, ordering, recipe scaling with allergens, and menu ideas.",
+  "metadata": {
+    "categories": {
+      "kitchen": {
+        "title": "Kitchen & food"
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "commune-kitchen",
+      "title": "Commune Kitchen",
+      "description": "Order smart, check a delivery against a receipt photo, scale recipes to covers with allergen handling, and get varied menu ideas from what is in stock.",
+      "author": "Commune Kitchen",
+      "metadata": {
+        "category": "kitchen",
+        "keywords": [
+          "kitchen",
+          "restaurant",
+          "recipes",
+          "food-cost",
+          "inventory",
+          "allergens",
+          "receipt"
+        ]
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1793896962,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1"
+          }
+        }
+      ]
+    }
+  ]
+}

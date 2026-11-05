@@ -1,0 +1,6 @@
+node_modules/
+*.traineddata
+test/ocr/
+.DS_Store
+*.log
+test/receipt-sample.jpg
