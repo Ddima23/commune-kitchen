@@ -4,3 +4,4 @@ test/ocr/
 .DS_Store
 *.log
 test/receipt-sample.jpg
+premium/
