@@ -1,0 +1,1656 @@
+{
+  "ground beef": {
+    "en": [
+      "ground beef"
+    ],
+    "fi": [
+      "jauheliha",
+      "naudan jauheliha"
+    ],
+    "sv": [
+      "färs",
+      "nötfärs",
+      "köttfärs"
+    ],
+    "pt": [
+      "carne moída",
+      "carne moida"
+    ],
+    "es": [
+      "carne picada",
+      "carne molida"
+    ],
+    "de": [
+      "hackfleisch",
+      "rinderhack"
+    ],
+    "fr": [
+      "viande hachée",
+      "boeuf haché",
+      "steak haché"
+    ],
+    "it": [
+      "carne macinata",
+      "macinato di manzo"
+    ],
+    "ru": [
+      "фарш",
+      "говяжий фарш",
+      "мясной фарш"
+    ],
+    "no": [
+      "kjøttdeig",
+      "karbonadedeig"
+    ],
+    "da": [
+      "oksekød",
+      "hakket oksekød"
+    ],
+    "nl": [
+      "gehakt",
+      "rundergehakt"
+    ],
+    "pl": [
+      "mięso mielone",
+      "mielone"
+    ]
+  },
+  "chicken": {
+    "en": [
+      "chicken"
+    ],
+    "fi": [
+      "kana",
+      "broileri"
+    ],
+    "sv": [
+      "kyckling"
+    ],
+    "pt": [
+      "frango"
+    ],
+    "es": [
+      "pollo"
+    ],
+    "de": [
+      "hähnchen",
+      "huhn"
+    ],
+    "fr": [
+      "poulet"
+    ],
+    "it": [
+      "pollo"
+    ],
+    "ru": [
+      "курица",
+      "курятина"
+    ],
+    "no": [
+      "kylling"
+    ],
+    "da": [
+      "kylling"
+    ],
+    "nl": [
+      "kip"
+    ],
+    "pl": [
+      "kurczak"
+    ]
+  },
+  "chicken thigh": {
+    "en": [
+      "chicken thigh"
+    ],
+    "fi": [
+      "broilerin reisi",
+      "kanan reisi"
+    ],
+    "sv": [
+      "kycklinglår"
+    ],
+    "pt": [
+      "coxa de frango",
+      "sobrecoxa"
+    ],
+    "es": [
+      "muslo de pollo"
+    ],
+    "de": [
+      "hähnchenschenkel"
+    ],
+    "fr": [
+      "cuisse de poulet"
+    ],
+    "it": [
+      "coscia di pollo"
+    ],
+    "ru": [
+      "куриное бедро",
+      "бедро курицы"
+    ],
+    "no": [
+      "kyllinglår"
+    ],
+    "da": [
+      "kyllinglår"
+    ],
+    "nl": [
+      "kippendij"
+    ],
+    "pl": [
+      "udo z kurczaka"
+    ]
+  },
+  "chicken breast": {
+    "en": [
+      "chicken breast"
+    ],
+    "fi": [
+      "broilerin rintafilee",
+      "kanan rinta"
+    ],
+    "sv": [
+      "kycklingbröst"
+    ],
+    "pt": [
+      "peito de frango"
+    ],
+    "es": [
+      "pechuga de pollo"
+    ],
+    "de": [
+      "hähnchenbrust"
+    ],
+    "fr": [
+      "blanc de poulet",
+      "poitrine de poulet"
+    ],
+    "it": [
+      "petto di pollo"
+    ],
+    "ru": [
+      "куриная грудка",
+      "грудка курицы"
+    ],
+    "no": [
+      "kyllingbryst"
+    ],
+    "da": [
+      "kyllingebryst"
+    ],
+    "nl": [
+      "kipfilet"
+    ],
+    "pl": [
+      "pierś z kurczaka"
+    ]
+  },
+  "salmon": {
+    "en": [
+      "salmon"
+    ],
+    "fi": [
+      "lohi",
+      "kirjolohi"
+    ],
+    "sv": [
+      "lax"
+    ],
+    "pt": [
+      "salmão"
+    ],
+    "es": [
+      "salmón"
+    ],
+    "de": [
+      "lachs"
+    ],
+    "fr": [
+      "saumon"
+    ],
+    "it": [
+      "salmone"
+    ],
+    "ru": [
+      "лосось",
+      "семга"
+    ],
+    "no": [
+      "laks"
+    ],
+    "da": [
+      "laks"
+    ],
+    "nl": [
+      "zalm"
+    ],
+    "pl": [
+      "łosoś"
+    ]
+  },
+  "white fish": {
+    "en": [
+      "white fish"
+    ],
+    "fi": [
+      "siika",
+      "ahven",
+      "vaalea kala"
+    ],
+    "sv": [
+      "vit fisk",
+      "torsk"
+    ],
+    "pt": [
+      "peixe branco"
+    ],
+    "es": [
+      "pescado blanco"
+    ],
+    "de": [
+      "weißfisch"
+    ],
+    "fr": [
+      "poisson blanc"
+    ],
+    "it": [
+      "pesce bianco"
+    ],
+    "ru": [
+      "белая рыба"
+    ],
+    "no": [
+      "hvit fisk"
+    ],
+    "da": [
+      "hvid fisk"
+    ],
+    "nl": [
+      "witvis"
+    ],
+    "pl": [
+      "biała ryba"
+    ]
+  },
+  "fish": {
+    "en": [
+      "fish"
+    ],
+    "fi": [
+      "kala"
+    ],
+    "sv": [
+      "fisk"
+    ],
+    "pt": [
+      "peixe"
+    ],
+    "es": [
+      "pescado",
+      "pez"
+    ],
+    "de": [
+      "fisch"
+    ],
+    "fr": [
+      "poisson"
+    ],
+    "it": [
+      "pesce"
+    ],
+    "ru": [
+      "рыба"
+    ],
+    "no": [
+      "fisk"
+    ],
+    "da": [
+      "fisk"
+    ],
+    "nl": [
+      "vis"
+    ],
+    "pl": [
+      "ryba"
+    ]
+  },
+  "cream": {
+    "en": [
+      "cream"
+    ],
+    "fi": [
+      "kerma"
+    ],
+    "sv": [
+      "grädde"
+    ],
+    "pt": [
+      "creme de leite",
+      "nata"
+    ],
+    "es": [
+      "nata",
+      "crema de leche"
+    ],
+    "de": [
+      "sahne",
+      "rahm"
+    ],
+    "fr": [
+      "crème",
+      "creme fraiche"
+    ],
+    "it": [
+      "panna"
+    ],
+    "ru": [
+      "сливки"
+    ],
+    "no": [
+      "fløte"
+    ],
+    "da": [
+      "fløde"
+    ],
+    "nl": [
+      "room"
+    ],
+    "pl": [
+      "śmietana"
+    ]
+  },
+  "butter": {
+    "en": [
+      "butter"
+    ],
+    "fi": [
+      "voi"
+    ],
+    "sv": [
+      "smör"
+    ],
+    "pt": [
+      "manteiga"
+    ],
+    "es": [
+      "mantequilla"
+    ],
+    "de": [
+      "butter"
+    ],
+    "fr": [
+      "beurre"
+    ],
+    "it": [
+      "burro"
+    ],
+    "ru": [
+      "масло",
+      "сливочное масло"
+    ],
+    "no": [
+      "smør"
+    ],
+    "da": [
+      "smør"
+    ],
+    "nl": [
+      "boter"
+    ],
+    "pl": [
+      "masło"
+    ]
+  },
+  "milk": {
+    "en": [
+      "milk"
+    ],
+    "fi": [
+      "maito"
+    ],
+    "sv": [
+      "mjölk"
+    ],
+    "pt": [
+      "leite"
+    ],
+    "es": [
+      "leche"
+    ],
+    "de": [
+      "milch"
+    ],
+    "fr": [
+      "lait"
+    ],
+    "it": [
+      "latte"
+    ],
+    "ru": [
+      "молоко"
+    ],
+    "no": [
+      "melk"
+    ],
+    "da": [
+      "mælk"
+    ],
+    "nl": [
+      "melk"
+    ],
+    "pl": [
+      "mleko"
+    ]
+  },
+  "cheese": {
+    "en": [
+      "cheese"
+    ],
+    "fi": [
+      "juusto"
+    ],
+    "sv": [
+      "ost"
+    ],
+    "pt": [
+      "queijo"
+    ],
+    "es": [
+      "queso"
+    ],
+    "de": [
+      "käse"
+    ],
+    "fr": [
+      "fromage"
+    ],
+    "it": [
+      "formaggio"
+    ],
+    "ru": [
+      "сыр"
+    ],
+    "no": [
+      "ost"
+    ],
+    "da": [
+      "ost"
+    ],
+    "nl": [
+      "kaas"
+    ],
+    "pl": [
+      "ser"
+    ]
+  },
+  "cottage cheese": {
+    "en": [
+      "cottage cheese"
+    ],
+    "fi": [
+      "raejuusto"
+    ],
+    "sv": [
+      "keso",
+      "kvarg"
+    ],
+    "pt": [
+      "queijo cottage",
+      "ricota"
+    ],
+    "es": [
+      "requesón"
+    ],
+    "de": [
+      "hüttenkäse",
+      "quark"
+    ],
+    "fr": [
+      "fromage blanc"
+    ],
+    "it": [
+      "fiocchi di latte"
+    ],
+    "ru": [
+      "творог"
+    ],
+    "no": [
+      "hytteost"
+    ],
+    "da": [
+      "hytteost"
+    ],
+    "nl": [
+      "hüttenkäse",
+      "kwark"
+    ],
+    "pl": [
+      "twaróg"
+    ]
+  },
+  "eggs": {
+    "en": [
+      "eggs"
+    ],
+    "fi": [
+      "kananmuna",
+      "muna"
+    ],
+    "sv": [
+      "ägg"
+    ],
+    "pt": [
+      "ovos"
+    ],
+    "es": [
+      "huevos"
+    ],
+    "de": [
+      "eier"
+    ],
+    "fr": [
+      "œufs",
+      "oeufs"
+    ],
+    "it": [
+      "uova"
+    ],
+    "ru": [
+      "яйца"
+    ],
+    "no": [
+      "egg"
+    ],
+    "da": [
+      "æg"
+    ],
+    "nl": [
+      "eieren"
+    ],
+    "pl": [
+      "jajka"
+    ]
+  },
+  "onion": {
+    "en": [
+      "onion"
+    ],
+    "fi": [
+      "sipuli"
+    ],
+    "sv": [
+      "lök"
+    ],
+    "pt": [
+      "cebola"
+    ],
+    "es": [
+      "cebolla"
+    ],
+    "de": [
+      "zwiebel"
+    ],
+    "fr": [
+      "oignon"
+    ],
+    "it": [
+      "cipolla"
+    ],
+    "ru": [
+      "лук",
+      "луковица"
+    ],
+    "no": [
+      "løk"
+    ],
+    "da": [
+      "løg"
+    ],
+    "nl": [
+      "ui"
+    ],
+    "pl": [
+      "cebula"
+    ]
+  },
+  "carrot": {
+    "en": [
+      "carrot"
+    ],
+    "fi": [
+      "porkkana"
+    ],
+    "sv": [
+      "morot"
+    ],
+    "pt": [
+      "cenoura"
+    ],
+    "es": [
+      "zanahoria"
+    ],
+    "de": [
+      "karotte",
+      "möhre"
+    ],
+    "fr": [
+      "carotte"
+    ],
+    "it": [
+      "carota"
+    ],
+    "ru": [
+      "морковь"
+    ],
+    "no": [
+      "gulrot"
+    ],
+    "da": [
+      "gulerod"
+    ],
+    "nl": [
+      "wortel"
+    ],
+    "pl": [
+      "marchewka"
+    ]
+  },
+  "potato": {
+    "en": [
+      "potato"
+    ],
+    "fi": [
+      "peruna"
+    ],
+    "sv": [
+      "potatis"
+    ],
+    "pt": [
+      "batata"
+    ],
+    "es": [
+      "patata",
+      "papa"
+    ],
+    "de": [
+      "kartoffel"
+    ],
+    "fr": [
+      "pomme de terre"
+    ],
+    "it": [
+      "patata"
+    ],
+    "ru": [
+      "картофель",
+      "картошка"
+    ],
+    "no": [
+      "potet"
+    ],
+    "da": [
+      "kartoffel"
+    ],
+    "nl": [
+      "aardappel"
+    ],
+    "pl": [
+      "ziemniak"
+    ]
+  },
+  "garlic": {
+    "en": [
+      "garlic"
+    ],
+    "fi": [
+      "valkosipuli"
+    ],
+    "sv": [
+      "vitlök"
+    ],
+    "pt": [
+      "alho"
+    ],
+    "es": [
+      "ajo"
+    ],
+    "de": [
+      "knoblauch"
+    ],
+    "fr": [
+      "ail"
+    ],
+    "it": [
+      "aglio"
+    ],
+    "ru": [
+      "чеснок"
+    ],
+    "no": [
+      "hvitløk"
+    ],
+    "da": [
+      "hvidløg"
+    ],
+    "nl": [
+      "knoflook"
+    ],
+    "pl": [
+      "czosnek"
+    ]
+  },
+  "zucchini": {
+    "en": [
+      "zucchini"
+    ],
+    "fi": [
+      "kesäkurpitsa"
+    ],
+    "sv": [
+      "zucchini",
+      "squash"
+    ],
+    "pt": [
+      "abobrinha"
+    ],
+    "es": [
+      "calabacín"
+    ],
+    "de": [
+      "zucchini"
+    ],
+    "fr": [
+      "courgette"
+    ],
+    "it": [
+      "zucchina"
+    ],
+    "ru": [
+      "цукини",
+      "кабачок"
+    ],
+    "no": [
+      "squash"
+    ],
+    "da": [
+      "squash",
+      "courgette"
+    ],
+    "nl": [
+      "courgette"
+    ],
+    "pl": [
+      "cukinia"
+    ]
+  },
+  "celery": {
+    "en": [
+      "celery"
+    ],
+    "fi": [
+      "selleri"
+    ],
+    "sv": [
+      "selleri"
+    ],
+    "pt": [
+      "aipo",
+      "salsão"
+    ],
+    "es": [
+      "apio"
+    ],
+    "de": [
+      "sellerie",
+      "staudensellerie"
+    ],
+    "fr": [
+      "céleri"
+    ],
+    "it": [
+      "sedano"
+    ],
+    "ru": [
+      "сельдерей"
+    ],
+    "no": [
+      "selleri"
+    ],
+    "da": [
+      "selleri"
+    ],
+    "nl": [
+      "selderij"
+    ],
+    "pl": [
+      "seler"
+    ]
+  },
+  "lemon": {
+    "en": [
+      "lemon"
+    ],
+    "fi": [
+      "sitruuna"
+    ],
+    "sv": [
+      "citron"
+    ],
+    "pt": [
+      "limão"
+    ],
+    "es": [
+      "limón"
+    ],
+    "de": [
+      "zitrone"
+    ],
+    "fr": [
+      "citron"
+    ],
+    "it": [
+      "limone"
+    ],
+    "ru": [
+      "лимон"
+    ],
+    "no": [
+      "sitron"
+    ],
+    "da": [
+      "citron"
+    ],
+    "nl": [
+      "citroen"
+    ],
+    "pl": [
+      "cytryna"
+    ]
+  },
+  "mushrooms": {
+    "en": [
+      "mushrooms"
+    ],
+    "fi": [
+      "herkkusieni",
+      "sieni"
+    ],
+    "sv": [
+      "svamp",
+      "champinjon"
+    ],
+    "pt": [
+      "cogumelos",
+      "champignon"
+    ],
+    "es": [
+      "champiñones"
+    ],
+    "de": [
+      "pilze",
+      "champignons"
+    ],
+    "fr": [
+      "champignons"
+    ],
+    "it": [
+      "funghi"
+    ],
+    "ru": [
+      "грибы",
+      "шампиньоны"
+    ],
+    "no": [
+      "sopp",
+      "sjampinjong"
+    ],
+    "da": [
+      "svampe",
+      "champignon"
+    ],
+    "nl": [
+      "champignons"
+    ],
+    "pl": [
+      "pieczarki"
+    ]
+  },
+  "canned tomatoes": {
+    "en": [
+      "canned tomatoes"
+    ],
+    "fi": [
+      "tomaattimurska",
+      "säilyketomaatti"
+    ],
+    "sv": [
+      "krossade tomater"
+    ],
+    "pt": [
+      "tomate enlatado",
+      "molho de tomate"
+    ],
+    "es": [
+      "tomate en lata",
+      "tomate triturado"
+    ],
+    "de": [
+      "dosentomaten",
+      "gehackte tomaten"
+    ],
+    "fr": [
+      "tomates concassées",
+      "coulis de tomate"
+    ],
+    "it": [
+      "pomodori in scatola",
+      "passata di pomodoro"
+    ],
+    "ru": [
+      "консервированные помидоры",
+      "томатная паста",
+      "протертые томаты"
+    ],
+    "no": [
+      "hermetiske tomater",
+      "hakkede tomater"
+    ],
+    "da": [
+      "flåede tomater",
+      "hakkede tomater"
+    ],
+    "nl": [
+      "tomatenblokjes",
+      "gezeefde tomaten"
+    ],
+    "pl": [
+      "pomidory w puszce",
+      "przecier pomidorowy"
+    ]
+  },
+  "tomato": {
+    "en": [
+      "tomato"
+    ],
+    "fi": [
+      "tomaatti"
+    ],
+    "sv": [
+      "tomat"
+    ],
+    "pt": [
+      "tomate"
+    ],
+    "es": [
+      "tomate"
+    ],
+    "de": [
+      "tomate"
+    ],
+    "fr": [
+      "tomate"
+    ],
+    "it": [
+      "pomodoro"
+    ],
+    "ru": [
+      "помидор",
+      "томат"
+    ],
+    "no": [
+      "tomat"
+    ],
+    "da": [
+      "tomat"
+    ],
+    "nl": [
+      "tomaat"
+    ],
+    "pl": [
+      "pomidor"
+    ]
+  },
+  "olive oil": {
+    "en": [
+      "olive oil"
+    ],
+    "fi": [
+      "oliiviöljy"
+    ],
+    "sv": [
+      "olivolja"
+    ],
+    "pt": [
+      "azeite",
+      "azeite de oliva"
+    ],
+    "es": [
+      "aceite de oliva"
+    ],
+    "de": [
+      "olivenöl"
+    ],
+    "fr": [
+      "huile d'olive"
+    ],
+    "it": [
+      "olio d'oliva"
+    ],
+    "ru": [
+      "оливковое масло"
+    ],
+    "no": [
+      "olivenolje"
+    ],
+    "da": [
+      "olivenolie"
+    ],
+    "nl": [
+      "olijfolie"
+    ],
+    "pl": [
+      "oliwa z oliwek"
+    ]
+  },
+  "pasta": {
+    "en": [
+      "pasta"
+    ],
+    "fi": [
+      "makaroni",
+      "pasta"
+    ],
+    "sv": [
+      "pasta",
+      "makaroner"
+    ],
+    "pt": [
+      "macarrão",
+      "massa"
+    ],
+    "es": [
+      "pasta",
+      "macarrones"
+    ],
+    "de": [
+      "nudeln",
+      "pasta"
+    ],
+    "fr": [
+      "pâtes"
+    ],
+    "it": [
+      "pasta"
+    ],
+    "ru": [
+      "макароны",
+      "паста"
+    ],
+    "no": [
+      "pasta"
+    ],
+    "da": [
+      "pasta"
+    ],
+    "nl": [
+      "pasta"
+    ],
+    "pl": [
+      "makaron"
+    ]
+  },
+  "flour": {
+    "en": [
+      "flour"
+    ],
+    "fi": [
+      "jauho"
+    ],
+    "sv": [
+      "mjöl"
+    ],
+    "pt": [
+      "farinha"
+    ],
+    "es": [
+      "harina"
+    ],
+    "de": [
+      "mehl"
+    ],
+    "fr": [
+      "farine"
+    ],
+    "it": [
+      "farina"
+    ],
+    "ru": [
+      "мука"
+    ],
+    "no": [
+      "mel"
+    ],
+    "da": [
+      "mel"
+    ],
+    "nl": [
+      "meel",
+      "bloem"
+    ],
+    "pl": [
+      "mąka"
+    ]
+  },
+  "sugar": {
+    "en": [
+      "sugar"
+    ],
+    "fi": [
+      "sokeri"
+    ],
+    "sv": [
+      "socker"
+    ],
+    "pt": [
+      "açúcar"
+    ],
+    "es": [
+      "azúcar"
+    ],
+    "de": [
+      "zucker"
+    ],
+    "fr": [
+      "sucre"
+    ],
+    "it": [
+      "zucchero"
+    ],
+    "ru": [
+      "сахар"
+    ],
+    "no": [
+      "sukker"
+    ],
+    "da": [
+      "sukker"
+    ],
+    "nl": [
+      "suiker"
+    ],
+    "pl": [
+      "cukier"
+    ]
+  },
+  "beef stock": {
+    "en": [
+      "beef stock"
+    ],
+    "fi": [
+      "lihaliemi"
+    ],
+    "sv": [
+      "köttbuljong"
+    ],
+    "pt": [
+      "caldo de carne"
+    ],
+    "es": [
+      "caldo de res"
+    ],
+    "de": [
+      "rinderbrühe"
+    ],
+    "fr": [
+      "bouillon de boeuf"
+    ],
+    "it": [
+      "brodo di carne"
+    ],
+    "ru": [
+      "говяжий бульон"
+    ],
+    "no": [
+      "oksekraft"
+    ],
+    "da": [
+      "oksebouillon"
+    ],
+    "nl": [
+      "rundvleesbouillon"
+    ],
+    "pl": [
+      "rosół wołowy"
+    ]
+  },
+  "cornstarch": {
+    "en": [
+      "cornstarch"
+    ],
+    "fi": [
+      "maissitärkkelys",
+      "maissijauho"
+    ],
+    "sv": [
+      "majsstärkelse"
+    ],
+    "pt": [
+      "amido de milho"
+    ],
+    "es": [
+      "maicena"
+    ],
+    "de": [
+      "speisestärke",
+      "maisstärke"
+    ],
+    "fr": [
+      "maïzena",
+      "fécule de maïs"
+    ],
+    "it": [
+      "maizena",
+      "amido di mais"
+    ],
+    "ru": [
+      "кукурузный крахмал"
+    ],
+    "no": [
+      "maisstivelse"
+    ],
+    "da": [
+      "majsstivelse"
+    ],
+    "nl": [
+      "maïzena",
+      "maiszetmeel"
+    ],
+    "pl": [
+      "mąka kukurydziana"
+    ]
+  },
+  "dill": {
+    "en": [
+      "dill"
+    ],
+    "fi": [
+      "tilli"
+    ],
+    "sv": [
+      "dill"
+    ],
+    "pt": [
+      "endro"
+    ],
+    "es": [
+      "eneldo"
+    ],
+    "de": [
+      "dill"
+    ],
+    "fr": [
+      "aneth"
+    ],
+    "it": [
+      "aneto"
+    ],
+    "ru": [
+      "укроп"
+    ],
+    "no": [
+      "dill"
+    ],
+    "da": [
+      "dild"
+    ],
+    "nl": [
+      "dille"
+    ],
+    "pl": [
+      "koperek"
+    ]
+  },
+  "parsley": {
+    "en": [
+      "parsley"
+    ],
+    "fi": [
+      "persilja"
+    ],
+    "sv": [
+      "persilja"
+    ],
+    "pt": [
+      "salsa",
+      "salsinha"
+    ],
+    "es": [
+      "perejil"
+    ],
+    "de": [
+      "petersilie"
+    ],
+    "fr": [
+      "persil"
+    ],
+    "it": [
+      "prezzemolo"
+    ],
+    "ru": [
+      "петрушка"
+    ],
+    "no": [
+      "persille"
+    ],
+    "da": [
+      "persille"
+    ],
+    "nl": [
+      "peterselie"
+    ],
+    "pl": [
+      "pietruszka"
+    ]
+  },
+  "paprika": {
+    "en": [
+      "paprika"
+    ],
+    "fi": [
+      "paprika"
+    ],
+    "sv": [
+      "paprika"
+    ],
+    "pt": [
+      "pimentão"
+    ],
+    "es": [
+      "pimiento"
+    ],
+    "de": [
+      "paprika"
+    ],
+    "fr": [
+      "poivron"
+    ],
+    "it": [
+      "peperone"
+    ],
+    "ru": [
+      "паприка",
+      "перец"
+    ],
+    "no": [
+      "paprika"
+    ],
+    "da": [
+      "peberfrugt"
+    ],
+    "nl": [
+      "paprika"
+    ],
+    "pl": [
+      "papryka"
+    ]
+  },
+  "chickpeas": {
+    "en": [
+      "chickpeas"
+    ],
+    "fi": [
+      "kikherneet",
+      "kikherne"
+    ],
+    "sv": [
+      "kikärter"
+    ],
+    "pt": [
+      "grão-de-bico"
+    ],
+    "es": [
+      "garbanzos"
+    ],
+    "de": [
+      "kichererbsen"
+    ],
+    "fr": [
+      "pois chiches"
+    ],
+    "it": [
+      "ceci"
+    ],
+    "ru": [
+      "нут",
+      "турецкий горох"
+    ],
+    "no": [
+      "kikerter"
+    ],
+    "da": [
+      "kikærter"
+    ],
+    "nl": [
+      "kikkererwten"
+    ],
+    "pl": [
+      "ciecierzyca"
+    ]
+  },
+  "salt": {
+    "en": [
+      "salt"
+    ],
+    "fi": [
+      "suola"
+    ],
+    "sv": [
+      "salt"
+    ],
+    "pt": [
+      "sal"
+    ],
+    "es": [
+      "sal"
+    ],
+    "de": [
+      "salz"
+    ],
+    "fr": [
+      "sel"
+    ],
+    "it": [
+      "sale"
+    ],
+    "ru": [
+      "соль"
+    ],
+    "no": [
+      "salt"
+    ],
+    "da": [
+      "salt"
+    ],
+    "nl": [
+      "zout"
+    ],
+    "pl": [
+      "sól"
+    ]
+  },
+  "pepper": {
+    "en": [
+      "pepper"
+    ],
+    "fi": [
+      "pippuri",
+      "mustapippuri"
+    ],
+    "sv": [
+      "peppar"
+    ],
+    "pt": [
+      "pimenta"
+    ],
+    "es": [
+      "pimienta"
+    ],
+    "de": [
+      "pfeffer"
+    ],
+    "fr": [
+      "poivre"
+    ],
+    "it": [
+      "pepe"
+    ],
+    "ru": [
+      "перец",
+      "чёрный перец"
+    ],
+    "no": [
+      "pepper"
+    ],
+    "da": [
+      "peber"
+    ],
+    "nl": [
+      "peper"
+    ],
+    "pl": [
+      "pieprz"
+    ]
+  },
+  "water": {
+    "en": [
+      "water"
+    ],
+    "fi": [
+      "vesi"
+    ],
+    "sv": [
+      "vatten"
+    ],
+    "pt": [
+      "água"
+    ],
+    "es": [
+      "agua"
+    ],
+    "de": [
+      "wasser"
+    ],
+    "fr": [
+      "eau"
+    ],
+    "it": [
+      "acqua"
+    ],
+    "ru": [
+      "вода"
+    ],
+    "no": [
+      "vann"
+    ],
+    "da": [
+      "vand"
+    ],
+    "nl": [
+      "water"
+    ],
+    "pl": [
+      "woda"
+    ]
+  },
+  "salmon fillet": {
+    "en": [
+      "salmon fillet"
+    ],
+    "fi": [
+      "lohifilee",
+      "lohifile"
+    ],
+    "sv": [
+      "laxfilé",
+      "laxfile"
+    ],
+    "pt": [
+      "filé de salmão",
+      "file de salmao"
+    ],
+    "es": [
+      "filete de salmón",
+      "filete de salmon"
+    ],
+    "de": [
+      "lachsfilet"
+    ],
+    "fr": [
+      "pavé de saumon",
+      "filet de saumon"
+    ],
+    "it": [
+      "filetto di salmone"
+    ],
+    "ru": [
+      "филе лосося",
+      "лосось филе"
+    ],
+    "no": [
+      "laksefilet"
+    ],
+    "da": [
+      "laksefilet"
+    ],
+    "nl": [
+      "zalmfilet"
+    ],
+    "pl": [
+      "filet z łososia"
+    ]
+  },
+  "white fish fillet": {
+    "en": [
+      "white fish fillet"
+    ],
+    "fi": [
+      "kalafilee"
+    ],
+    "sv": [
+      "fiskfilé",
+      "fiskfile"
+    ],
+    "pt": [
+      "filé de peixe branco"
+    ],
+    "es": [
+      "filete de pescado blanco"
+    ],
+    "de": [
+      "fischfilet"
+    ],
+    "fr": [
+      "filet de poisson blanc"
+    ],
+    "it": [
+      "filetto di pesce"
+    ],
+    "ru": [
+      "филе белой рыбы"
+    ],
+    "no": [
+      "fiskefilet"
+    ],
+    "da": [
+      "fiskefilet"
+    ],
+    "nl": [
+      "witvisfilet"
+    ],
+    "pl": [
+      "filet z białej ryby"
+    ]
+  }
+}

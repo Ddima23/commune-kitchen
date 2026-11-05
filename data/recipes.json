@@ -9,7 +9,7 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "salmon fillet (laxfilé / lohifilee)",
+        "name": "salmon fillet",
         "amount": 1.5,
         "unit": "kg",
         "category": "fish",
@@ -18,7 +18,7 @@
         ]
       },
       {
-        "name": "cream (grädde / kerma)",
+        "name": "cream",
         "amount": 300,
         "unit": "ml",
         "category": "dairy",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "butter (smör / voi)",
+        "name": "butter",
         "amount": 50,
         "unit": "g",
         "category": "dairy",
@@ -36,14 +36,14 @@
         ]
       },
       {
-        "name": "dill (dill / tilli)",
+        "name": "dill",
         "amount": 20,
         "unit": "g",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "lemon (citron / sitruuna)",
+        "name": "lemon",
         "amount": 2,
         "unit": "pcs",
         "category": "produce",
@@ -61,7 +61,7 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "white fish fillet (vit fiskfilé / kalafilee)",
+        "name": "white fish fillet",
         "amount": 1.5,
         "unit": "kg",
         "category": "fish",
@@ -70,35 +70,35 @@
         ]
       },
       {
-        "name": "canned tomatoes (krossade tomater / tomaattimurska)",
+        "name": "canned tomatoes",
         "amount": 3,
         "unit": "can",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 4,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "garlic (vitlök / valkosipuli)",
+        "name": "garlic",
         "amount": 1,
         "unit": "head",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "olive oil (olivolja / oliiviöljy)",
+        "name": "olive oil",
         "amount": 100,
         "unit": "ml",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "parsley (persilja)",
+        "name": "parsley",
         "amount": 30,
         "unit": "g",
         "category": "produce",
@@ -116,35 +116,35 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "ground beef (färs / jauheliha)",
+        "name": "ground beef",
         "amount": 2,
         "unit": "kg",
         "category": "meat",
         "allergens": []
       },
       {
-        "name": "canned tomatoes (krossade tomater / tomaattimurska)",
+        "name": "canned tomatoes",
         "amount": 4,
         "unit": "can",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 4,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "carrot (morot / porkkana)",
+        "name": "carrot",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "celery (selleri)",
+        "name": "celery",
         "amount": 3,
         "unit": "stalks",
         "category": "produce",
@@ -153,7 +153,7 @@
         ]
       },
       {
-        "name": "pasta (pasta / makaroni)",
+        "name": "pasta",
         "amount": 1.2,
         "unit": "kg",
         "category": "dry goods",
@@ -174,28 +174,28 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "canned tomatoes (krossade tomater / tomaattimurska)",
+        "name": "canned tomatoes",
         "amount": 4,
         "unit": "can",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 4,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "carrot (morot / porkkana)",
+        "name": "carrot",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "celery (selleri)",
+        "name": "celery",
         "amount": 3,
         "unit": "stalks",
         "category": "produce",
@@ -204,21 +204,21 @@
         ]
       },
       {
-        "name": "zucchini (zucchini / kesäkurpitsa)",
+        "name": "zucchini",
         "amount": 4,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "chickpeas (kikärter / kikherneet)",
+        "name": "chickpeas",
         "amount": 2,
         "unit": "can",
         "category": "dry goods",
         "allergens": []
       },
       {
-        "name": "olive oil (olivolja / oliiviöljy)",
+        "name": "olive oil",
         "amount": 100,
         "unit": "ml",
         "category": "pantry",
@@ -236,35 +236,35 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "chicken thigh (kycklinglår / broilerin reisi)",
+        "name": "chicken thigh",
         "amount": 2,
         "unit": "kg",
         "category": "meat",
         "allergens": []
       },
       {
-        "name": "canned tomatoes (krossade tomater / tomaattimurska)",
+        "name": "canned tomatoes",
         "amount": 4,
         "unit": "can",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 4,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "carrot (morot / porkkana)",
+        "name": "carrot",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "pasta (pasta / makaroni)",
+        "name": "pasta",
         "amount": 1.2,
         "unit": "kg",
         "category": "dry goods",
@@ -285,14 +285,14 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "chicken breast (kycklingbröst / broilerin rintafilee)",
+        "name": "chicken breast",
         "amount": 2,
         "unit": "kg",
         "category": "meat",
         "allergens": []
       },
       {
-        "name": "cream (grädde / kerma)",
+        "name": "cream",
         "amount": 400,
         "unit": "ml",
         "category": "dairy",
@@ -301,7 +301,7 @@
         ]
       },
       {
-        "name": "cheese (ost / juusto)",
+        "name": "cheese",
         "amount": 200,
         "unit": "g",
         "category": "dairy",
@@ -310,21 +310,21 @@
         ]
       },
       {
-        "name": "mushrooms (svamp / herkkusieni)",
+        "name": "mushrooms",
         "amount": 500,
         "unit": "g",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "flour (mjöl / jauho)",
+        "name": "flour",
         "amount": 60,
         "unit": "g",
         "category": "dry goods",
@@ -334,7 +334,7 @@
         ]
       },
       {
-        "name": "butter (smör / voi)",
+        "name": "butter",
         "amount": 50,
         "unit": "g",
         "category": "dairy",
@@ -353,7 +353,7 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "cottage cheese (keso / raejuusto)",
+        "name": "cottage cheese",
         "amount": 1,
         "unit": "kg",
         "category": "dairy",
@@ -362,7 +362,7 @@
         ]
       },
       {
-        "name": "eggs (ägg / kananmuna)",
+        "name": "eggs",
         "amount": 4,
         "unit": "pcs",
         "category": "dairy",
@@ -371,7 +371,7 @@
         ]
       },
       {
-        "name": "flour (mjöl / jauho)",
+        "name": "flour",
         "amount": 150,
         "unit": "g",
         "category": "dry goods",
@@ -381,14 +381,14 @@
         ]
       },
       {
-        "name": "sugar (socker / sokeri)",
+        "name": "sugar",
         "amount": 80,
         "unit": "g",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "butter (smör / voi)",
+        "name": "butter",
         "amount": 50,
         "unit": "g",
         "category": "dairy",
@@ -407,7 +407,7 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "pasta (pasta / makaroni)",
+        "name": "pasta",
         "amount": 1,
         "unit": "kg",
         "category": "dry goods",
@@ -417,7 +417,7 @@
         ]
       },
       {
-        "name": "cheese (ost / juusto)",
+        "name": "cheese",
         "amount": 400,
         "unit": "g",
         "category": "dairy",
@@ -426,7 +426,7 @@
         ]
       },
       {
-        "name": "milk (mjölk / maito)",
+        "name": "milk",
         "amount": 800,
         "unit": "ml",
         "category": "dairy",
@@ -435,7 +435,7 @@
         ]
       },
       {
-        "name": "butter (smör / voi)",
+        "name": "butter",
         "amount": 80,
         "unit": "g",
         "category": "dairy",
@@ -444,7 +444,7 @@
         ]
       },
       {
-        "name": "flour (mjöl / jauho)",
+        "name": "flour",
         "amount": 80,
         "unit": "g",
         "category": "dry goods",
@@ -465,7 +465,7 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "salmon fillet (laxfilé / lohifilee)",
+        "name": "salmon fillet",
         "amount": 1.2,
         "unit": "kg",
         "category": "fish",
@@ -474,21 +474,21 @@
         ]
       },
       {
-        "name": "potato (potatis / peruna)",
+        "name": "potato",
         "amount": 1.5,
         "unit": "kg",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "cream (grädde / kerma)",
+        "name": "cream",
         "amount": 200,
         "unit": "ml",
         "category": "dairy",
@@ -497,7 +497,7 @@
         ]
       },
       {
-        "name": "butter (smör / voi)",
+        "name": "butter",
         "amount": 40,
         "unit": "g",
         "category": "dairy",
@@ -506,7 +506,7 @@
         ]
       },
       {
-        "name": "dill (dill / tilli)",
+        "name": "dill",
         "amount": 20,
         "unit": "g",
         "category": "produce",
@@ -524,7 +524,7 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "pasta (pasta / makaroni)",
+        "name": "pasta",
         "amount": 800,
         "unit": "g",
         "category": "dry goods",
@@ -534,14 +534,14 @@
         ]
       },
       {
-        "name": "ground beef (färs / jauheliha)",
+        "name": "ground beef",
         "amount": 800,
         "unit": "g",
         "category": "meat",
         "allergens": []
       },
       {
-        "name": "milk (mjölk / maito)",
+        "name": "milk",
         "amount": 600,
         "unit": "ml",
         "category": "dairy",
@@ -550,7 +550,7 @@
         ]
       },
       {
-        "name": "eggs (ägg / kananmuna)",
+        "name": "eggs",
         "amount": 4,
         "unit": "pcs",
         "category": "dairy",
@@ -559,14 +559,14 @@
         ]
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "cheese (ost / juusto)",
+        "name": "cheese",
         "amount": 150,
         "unit": "g",
         "category": "dairy",
@@ -577,7 +577,7 @@
     ]
   },
   {
-    "name": "Köttgryta (lihapata)",
+    "name": "Köttgryta (Swedish meat stew)",
     "tags": [
       "meat",
       "dinner",
@@ -587,14 +587,14 @@
     "base_covers": 10,
     "ingredients": [
       {
-        "name": "ground beef (färs / jauheliha)",
+        "name": "ground beef",
         "amount": 2,
         "unit": "kg",
         "category": "meat",
         "allergens": []
       },
       {
-        "name": "cream (grädde / kerma)",
+        "name": "cream",
         "amount": 500,
         "unit": "ml",
         "category": "dairy",
@@ -603,14 +603,14 @@
         ]
       },
       {
-        "name": "onion (lök / sipuli)",
+        "name": "onion",
         "amount": 5,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "carrot (morot / porkkana)",
+        "name": "carrot",
         "amount": 5,
         "unit": "pcs",
         "category": "produce",
@@ -624,14 +624,14 @@
         "allergens": []
       },
       {
-        "name": "zucchini (zucchini / kesäkurpitsa)",
+        "name": "zucchini",
         "amount": 3,
         "unit": "pcs",
         "category": "produce",
         "allergens": []
       },
       {
-        "name": "beef stock (köttbuljong / lihaliemi)",
+        "name": "beef stock",
         "amount": 1,
         "unit": "l",
         "category": "pantry",
@@ -640,14 +640,14 @@
         ]
       },
       {
-        "name": "cornstarch (majsstärkelse / maissitärkkelys)",
+        "name": "cornstarch",
         "amount": 60,
         "unit": "g",
         "category": "pantry",
         "allergens": []
       },
       {
-        "name": "butter (smör / voi)",
+        "name": "butter",
         "amount": 50,
         "unit": "g",
         "category": "dairy",
